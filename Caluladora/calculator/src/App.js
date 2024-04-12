@@ -7,6 +7,7 @@ function App() {
   return (
     <div>
       <h1>CalculPene</h1>
+      <h2>team sangre</h2>
       <Principal />
     </div>
 
